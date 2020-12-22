@@ -7,6 +7,7 @@
 - Tech Startups: Trevor John
 - Complexity Science: Joe Norman
 - An Introduction to Databases: Salim Arfaoui
+- Cryptobasics: Salim Arfaoui  
 - Agent-Based Modeling: Gene Callahan
 
 
