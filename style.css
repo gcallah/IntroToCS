@@ -2,33 +2,238 @@ body {
     margin: 0;
     padding: 0;
     font-size: 100%;
-    color: #ddd;
-    background: #444;
-    line-height: 2.0;
-    font-family: Verdana, Geneva, sans-serif
+    color: #333;
+    background: #dff;
+    font-family: initial;
 }
 
-table, th, td {
-    border: 1px solid black;
-    }
-    th, td {
-            padding: 15px;
-    }
+table {
+    font-size: 1.4em;
+    margin: .5em 2.5em .5em 2.5em;
+    border-collapse: collapse;
+}
 
-p {
-    font-size: 1.2em;
-    margin: .6em 6em .6em 5em;
+th {
+    border: .03125em solid black;
+    font-weight: normal;
+}
+
+th, td {
+    padding: .5em;
+}
+
+td {
+    background: #dff;
+}
+
+th#chapter-head {
+    font-size: 1.4em;
+    color: #245;
+    background: #cff;
+}
+
+th {
+    background: #afd;
+}
+
+canvas {
+    margin: .5em 2em .5em 2em;
+    border: .1em dashed black;
+    /*background: #fde;*/
+}
+
+li {
+    margin: .5em .75em .5em .75em;
+}
+
+ol, ul, dl {
+    font-size: 1.4em;
+    margin: 1em 2.5em 1em 2.5em;
+}
+
+ol.nested, ul.nested, dl.nested {
+    font-size: 1em;
+}
+
+p, summary.sum4 {
+    font-size: 1.4em;
+    margin: .5em 2.5em .5em 2.5em;
     padding: 0;
     line-height: 140%;
 }
 
-hr {
-    margin: 2em 12em 2em 12em;
+blockquote {
+    font-size: 1.1em;
+    margin: .75em 4.5em .75em 4.5em;
+    padding: 0;
+    line-height: 140%;
 }
 
-ol, ul, dl, li {
-    margin: 1.6em 8em .6em 3em;
+p.authors {
+    text-align: center;
 }
+
+h1 {
+    margin: 1em 8em 1.4em 8em;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 300;
+    background-color: #245;
+    color: #dff;
+}
+
+h1.toc-head {
+    margin: 0 0 0 0;
+}
+
+h2 {
+    font-size: 2.2em;
+    margin: 1.25em 1em 1.25em 1em;
+    color: #245;
+}
+
+h3 {
+    font-size: 2em;
+    margin: 1.15em 1.5em 1em 1.5em;
+    color: #633;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 1.8em;
+    margin: 1em 2em .75em 2em;
+    color: #339;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 1.6em;
+    margin: 1em 2em .75em 2em;
+    color: #366;
+    font-weight: bold;
+}
+
+#header {
+    width: auto;
+    height: 60;
+    padding: 10 2.5em;
+    line-height: 2.5em;
+    background-color: #245;
+    color: #dff;
+    overflow: hidden;
+}
+
+#header a:link, #header a:visited {
+    color: #fff;
+}
+
+#header a:focus , #header a:hover {
+    text-decoration: underline;
+}
+
+figure, figure.toc {
+    text-align: center;
+}
+
+figure.toc {
+    margin: 0em 4em 4em 4em;
+}
+
+figure.left {
+    margin: 2em 1em 1em 6em;
+    text-align: left;
+}
+
+figcaption {
+    color: #606;
+    font-style: italic;
+    text-align: center;
+    margin: 1em 1.25em .75em 20;
+}
+
+.python-console {
+    text-align: center;
+    float: center;
+    width: 100%;
+    font-family: sans-serif; 
+}
+
+.illustr-container {
+    width: 1000;
+    height: 400;
+    flex: 1;
+    margin: 1.25em 20 0 0;
+    overflow: auto;
+}
+
+.illustr-text {
+    display: inline-block;
+    width: 33%;
+}
+
+.illustration {
+    display: inline-block;
+    float: right;
+}
+
+#logo {
+    float: left;
+    margin: .1em 1.25em 0 1.25em;
+}
+
+#user-tools {
+    float: right;
+    padding: 0;
+    margin: 0 1.25em 0 1.25em;
+    font-weight: 300;
+    font-size: 1em;
+    letter-spacing: 0.00375em;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+#user-tools a {
+    border-bottom: .03125em solid rgba(255, 255, 255, 0.25);
+}
+
+#user-tools a:focus, #user-tools a:hover {
+    text-decoration: none;
+    border-bottom-color: #285d91;
+    color: #285d91;
+}
+
+summary.sum1 {
+    font-size: 2em;
+    color: #245;
+    margin: 1em 1.5em 1em 1.5em;
+}
+
+summary.sum2 {
+    font-size: 1.8em;
+    color: #633;
+    margin: .75em 1.5em .75em 2.5em;
+}
+
+summary.sum3 {
+    font-size: 1.6em;
+    color: #339;
+    margin: .5em 1.5em .5em 3.5em;
+}
+
+summary.menu_sum {
+    font-size: 1.6em;
+    color: #249;
+    margin: .5em 0em .5em 0em;
+}
+
+p.lead-quote {
+    margin: .75em 8em .75em 8em;
+}
+
+.center {
+    margin: 0 auto;
+}
+
 
 ul.centered {
     list-style-position: inside;
@@ -40,113 +245,5 @@ ul.centered {
     margin: 0;
     display: flex;
     justify-content: space-between;
-    background-color: #321;
+    background-color: #cee;
 }
-
-a {
-    text-decoration: none;
-    color: #aaf;
-}
-a:link {
-    color: #caf;
-}
-a:visited {
-    color: #fac;
-}
-
-p.model {
-/*    text-align: center; */
-}
-
-p.menu {
-    text-align: center;
-    margin: .4em 4em .8em 4em;
-    font-size: 1.4em;
-}
-
-figure {
-    margin: 1.4em 1em 1.4em 1em;
-    text-align: center;
-}
-figure.logo {
-    margin: 0em 0em .6em 0em;
-}
-
-figure figcaption {
-    color: #69c;
-    font-style: italic;
-    margin: .8em 1em .8em 1em;
-}
-
-h1,h2,h3,h4,h5 {
-    font-weight: 400;
-}
-
-h1 {
-    margin: 1em 8em 1.4em 8em;
-    text-align: center;
-    font-size: 2em;
-    color: #339;
-    background-color: #cad;
-}
-
-h2 {
-    font-size: 1.8em;
-    margin: 1.4em 4em 1.3em 4em;
-    color: #9cc;
-}
-
-h2.subhead {
-    font-weight: normal;
-    margin-top: 0;
-}
-
-h3 {
-    font-size: 1.6em;
-    margin: 1.4em 4em 1.3em 4em;
-    color: #ecb;
-}
-
-h4 {
-    font-size: 1.5em;
-    margin: 1.4em .6em 1.2em 4em;
-    color: #caf;
-/*	text-align: center */
-}
-
-h5 {
-    font-size: 1.4em;
-    margin: 1.4em .6em 1.2em .6em;
-    color: #faa;
-}
-
-summary.sum1 {
-    font-size: 1.6em;
-    color: #e69;
-    margin: .8em 1.2em .8em 1.2em;
-}
-
-summary.sum2 {
-    font-size: 1.5em;
-    color: #acf;
-    margin: .6em 1.2em .6em 2em;
-}
-
-summary.sum3 {
-    font-size: 1.4em;
-    color: #aac;
-    margin: .4em 1.2em .4em 2.8em;
-}
-
-summary.sum4 {
-    font-size: 1.3em;
-    color: #fac;
-    margin: .4em 1.2em .4em 2.8em;
-}
-
-summary.menu_sum {
-    font-size: 1.4em;
-    color: #fac;
-    margin: .5em 0em .5em 0em;
-}
-

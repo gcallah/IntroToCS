@@ -10,7 +10,10 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-<h1>About This Site</h1>
-<p>This site is for use with CS 1122 at the Tandon School of Engineering.</p>
+# About This Site
+
+
+This site is for use with CS 1122 at the Tandon School of Engineering.
+
 </body>
 </html>
