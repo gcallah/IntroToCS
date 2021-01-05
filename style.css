@@ -74,7 +74,7 @@ p.authors {
 }
 
 h1 {
-    margin: 1em 8em 1.4em 8em;
+    margin: 1em 1em 1.4em 1em;
     text-align: center;
     font-size: 2em;
     font-weight: 300;
@@ -240,6 +240,7 @@ ul.centered {
 }
 .menu {
     margin: 1.6em 12em 0em 12em;
+    font-size: 1.0em;
     list-style: none;
     padding: 0;
     margin: 0;
