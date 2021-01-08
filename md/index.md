@@ -14,11 +14,12 @@
 
 The following are the topics for Spring 2021.
 
-- Introduction to Computation
-- Databases
-- Big Data
-- Complexity Science
-- Agent-based Modeling
+- Introduction to Computation (Trishank Karthik Kuppusamy)
+- Databases (Salim Arfaoui)
+- Infrastructure (Prashant Patel)
+- Data Science
+- Complexity Science (Joe Norman)
+- Agent-based Modeling (Gene Callahan)
 
 </body>
 </html>

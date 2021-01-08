@@ -13,11 +13,12 @@
 <h1>Introduction to Computer Science</h1>
 <p>The following are the topics for Spring 2021.</p>
 <ul>
-<li>Introduction to Computation</li>
-<li>Databases</li>
-<li>Big Data</li>
-<li>Complexity Science</li>
-<li>Agent-based Modeling</li>
+<li>Introduction to Computation (Trishank Karthik Kuppusamy)</li>
+<li>Databases (Salim Arfaoui)</li>
+<li>Infrastructure (Prashant Patel)</li>
+<li>Data Science</li>
+<li>Complexity Science (Joe Norman)</li>
+<li>Agent-based Modeling (Gene Callahan)</li>
 </ul>
 </body>
 </html>
