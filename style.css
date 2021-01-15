@@ -14,11 +14,11 @@ table {
 }
 
 th {
-    border: .03125em solid black;
     font-weight: normal;
 }
 
 th, td {
+    border: .03125em solid black;
     padding: .5em;
 }
 

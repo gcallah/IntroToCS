@@ -1,10 +1,10 @@
 <html>
-    <head>
+<head>
 <!--include head.txt -->
-        <title>
-            Introduction to Computer Science
-        </title>
-    </head>
+<title>
+Introduction to Computer Science
+</title>
+</head>
 
  <body>
 <!--include logo.txt -->
@@ -14,12 +14,17 @@
 
 The following are the topics for Spring 2021.
 
-- Introduction to Computation (Trishank Karthik Kuppusamy)
-- Databases (Salim Arfaoui)
-- Data Science
-- Feb. 19: Complexity Science (Joe Norman)
-- Feb. 26: Agent-based Modeling (Gene Callahan)
-- Infrastructure Engineering (Prashant Patel)
+
+| Date   | Topic   | Lecturer  |
+|--------|---------|-----------|
+| Jan. 29 | Introduction to Computation | Trishank Karthik Kuppusamy |
+| | Computer Networking | Daniel Katz-Braunschweig |
+| | Databases | Salim Arfaoui |
+| Feb. 19: | Complexity Science | Joe Norman |
+| Feb. 26: | Agent-based Modeling | Gene Callahan |
+| Apr. 16: | Search Engines and Information Retrieval | Torsten Suel |
+| | Infrastructure Engineering | Prashant Patel |
+| | Data Science | |
 
 </body>
 </html>
