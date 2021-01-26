@@ -18,13 +18,20 @@ The following are the topics for Spring 2021.
 | Date   | Topic   | Lecturer  |
 |--------|---------|-----------|
 | Jan. 29 | Introduction to Computation | Trishank Karthik Kuppusamy |
-| Feb. 12 | Databases | Salim Arfaoui |
+| Feb. 5 | Databases | Salim Arfaoui |
+| Feb. 12 | TBA | |
 | Feb. 19: | Complexity Science | Joe Norman |
 | Feb. 26: | Agent-based Modeling | Gene Callahan |
 | Mar. 5 | Computer Networking | Daniel Katz-Braunschweig |
+| Mar. 12 | Infrastructure Engineering | Prashant Patel |
+| Mar. 19 | Spring Break | |
+| Mar. 26 | TBA | |
+| Apr. 2 | TBA | |
+| Apr. 9 | TBA | |
 | Apr. 16: | Search Engines and Information Retrieval | Torsten Suel |
-| | Infrastructure Engineering | Prashant Patel |
-| | Data Science | |
+| Apr. 23 | TBA | |
+| Apr. 30 | TBA | |
+| May 7 | TBA | |
 
 </body>
 </html>
