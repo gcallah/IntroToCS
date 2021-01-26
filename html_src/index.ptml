@@ -1,0 +1,65 @@
+<html>
+<head>
+<!--include head.txt -->
+<title>
+Introduction to Computer Science
+</title>
+</head>
+<body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+<h1 id="introduction-to-computer-science">Introduction to Computer Science</h1>
+<p>The following are the topics for Spring 2021.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Topic</th>
+<th>Lecturer</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Jan. 29</td>
+<td>Introduction to Computation</td>
+<td>Trishank Karthik Kuppusamy</td>
+</tr>
+<tr class="even">
+<td>Feb. 12</td>
+<td>Databases</td>
+<td>Salim Arfaoui</td>
+</tr>
+<tr class="odd">
+<td>Feb. 19:</td>
+<td>Complexity Science</td>
+<td>Joe Norman</td>
+</tr>
+<tr class="even">
+<td>Feb. 26:</td>
+<td>Agent-based Modeling</td>
+<td>Gene Callahan</td>
+</tr>
+<tr class="odd">
+<td>Mar. 5</td>
+<td>Computer Networking</td>
+<td>Daniel Katz-Braunschweig</td>
+</tr>
+<tr class="even">
+<td>Apr. 16:</td>
+<td>Search Engines and Information Retrieval</td>
+<td>Torsten Suel</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Infrastructure Engineering</td>
+<td>Prashant Patel</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Data Science</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
