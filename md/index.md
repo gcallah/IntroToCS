@@ -29,7 +29,7 @@ The following are the topics for Spring 2021.
 | Apr. 2 | TBA | |
 | Apr. 9 | TBA | |
 | Apr. 16: | Search Engines and Information Retrieval | Torsten Suel |
-| Apr. 23 | TBA | |
+| Apr. 23 | Data Science | Raman Kannan |
 | Apr. 30 | TBA | |
 | May 7 | TBA | |
 
