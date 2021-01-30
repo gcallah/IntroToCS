@@ -23,7 +23,7 @@ The following are the topics for Spring 2021.
 | Feb. 19: | Complexity Science | Joe Norman |
 | Feb. 26: | Agent-based Modeling | Gene Callahan |
 | Mar. 5 | Computer Networking | Daniel Katz-Braunschweig |
-| Mar. 12 | CS Advisory Session | CS Advisors |
+| Mar. 12 | Spring into Spring | CS Advisors |
 | Mar. 19 | Spring Break | |
 | Mar. 26 | Infrastructure Engineering | Prashant Patel |
 | Apr. 2 | TBA | |
