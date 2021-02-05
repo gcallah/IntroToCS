@@ -1,10 +1,10 @@
 <html>
-    <head>
+<head>
 <!--include head.txt -->
-        <title>
-            About This Project
-        </title>
-    </head>
+<title>
+About This Project
+</title>
+</head>
 
 <body>
 <!--include logo.txt -->

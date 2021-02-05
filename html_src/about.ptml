@@ -1,16 +1,14 @@
 <html>
-    <head>
+<head>
 <!--include head.txt -->
-        <title>
-            About This Project
-        </title>
-    </head>
-
+<title>
+About This Project
+</title>
+</head>
 <body>
 <!--include logo.txt -->
 <!--include menu.txt -->
-
-<h1>About This Site</h1>
+<h1 id="about-this-site">About This Site</h1>
 <p>This site is for use with CS 1122 at the Tandon School of Engineering.</p>
 </body>
 </html>
