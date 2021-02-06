@@ -18,7 +18,7 @@ The following are the topics for Spring 2021.
 | Date   | Topic   | Lecturer  |
 |--------|---------|-----------|
 | Jan. 29 | Introduction to Computation | Trishank Karthik Kuppusamy |
-| Feb. 5 | Databases | Salim Arfaoui |
+| Feb. 5 | [Databases](lectures/Databases.pdf) | Salim Arfaoui |
 | Feb. 12 | Game Programming | Carmine Guida | 
 | Feb. 19: | Complexity Science | Joe Norman |
 | Feb. 26: | Agent-based Modeling | Gene Callahan |
