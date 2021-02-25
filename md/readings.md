@@ -2,7 +2,7 @@
 <head>
 <!--include head.txt -->
 <title>
-Supplementary Readings
+Supplementary Material
 </title>
 </head>
 
@@ -10,12 +10,16 @@ Supplementary Readings
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-# Supplementary Readings/Videos
+# Supplementary Material
 
 - [What is computation? Trishank's book
     recommendations](https://www.amazon.com/hz/wishlist/genericItemsPage/1G753AH3Z70FN?ref_=wl_share)
 - [Getting started with
 SQL](https://youtube.com/playlist?list=PLgASbbAOXaytT549ylos0EQ8-CxdLedqI)
+- [Complexity Science Research](https://necsi.edu/research)
+- [Agent-Based Models](https://en.wikipedia.org/wiki/Agent-based_model)
+- [What Is Agent-Based Modeling?](https://youtu.be/FVmQbfsOkGc)
+- [NetLogo ABM System](https://ccl.northwestern.edu/netlogo/)
 
 </body>
 </html>
