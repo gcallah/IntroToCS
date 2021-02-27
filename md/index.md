@@ -31,7 +31,7 @@ The following are the topics for Spring 2021.
 | Apr. 16: | Search Engines and Information Retrieval | Torsten Suel |
 | Apr. 23 | Data Science | Raman Kannan |
 | Apr. 30 | CyberSecurity | Edward Amoroso |
-| May 7 | TBA | |
+| May 7 | Operating Systems | Kamen Yotov |
 
 </body>
 </html>
