@@ -20,6 +20,7 @@ SQL](https://youtube.com/playlist?list=PLgASbbAOXaytT549ylos0EQ8-CxdLedqI)
 - [Agent-Based Models](https://en.wikipedia.org/wiki/Agent-based_model)
 - [What Is Agent-Based Modeling?](https://youtu.be/FVmQbfsOkGc)
 - [NetLogo ABM System](https://ccl.northwestern.edu/netlogo/)
+- [Laying ocean cables](https://www.wired.com/1996/12/ffglass/)
 
 </body>
 </html>
