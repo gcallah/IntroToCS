@@ -25,7 +25,7 @@ The following are the topics for Spring 2021.
 | Mar. 5 | [Computer Networking](lectures/Networking.pdf) | Daniel Katz-Braunschweig |
 | Mar. 12 | Spring into Spring | CS Advisors |
 | Mar. 19 | Spring Break | |
-| Mar. 26 | Infrastructure Engineering | Prashant Patel |
+| Mar. 26 | [Infrastructure Engineering](lectures/Infrastructure_engineering.pdf) | Prashant Patel |
 | Apr. 2 | TBA | |
 | Apr. 9 | TBA | |
 | Apr. 16: | Search Engines and Information Retrieval | Torsten Suel |
