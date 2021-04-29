@@ -28,8 +28,8 @@ The following are the topics for Spring 2021.
 | Mar. 26 | [Infrastructure Engineering](lectures/Infrastructure_engineering.pdf) | Prashant Patel |
 | Apr. 2 | [Software Engineering at Google](https://nyu.zoom.us/rec/share/baCqzY4tphwEhl7oUf9cAF2JdQCuVAr5mqjtfTAOiTUzocyBSKXXErgLUxnjaZX3.v2xd6NMfHbLa-q9-) | Gennadiy Civil |
 | Apr. 9 | [Cryptography](lectures/Cryptography.pdf) | Salim Arfaoui |
-| Apr. 16: | Search Engines and Information Retrieval | Torsten Suel |
-| Apr. 23 | Data Science | Raman Kannan |
+| Apr. 16: | | |
+| Apr. 23 | [Data Science](lectures/DataScience.pdf) | Raman Kannan |
 | Apr. 30 | CyberSecurity | Edward Amoroso |
 | May 7 | Operating Systems | Kamen Yotov |
 
